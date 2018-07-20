@@ -11,7 +11,7 @@ Welcome to the Synapse AI wallet app. :) This is how you'll register your wallet
 
 1. We're still operating on the Ropsten testnet on the Ethereum network until this is out of Alpha. You can help us bring it out of beta by joining up here: https://synapse.ai/developers -- We're also kicking around the idea of opening a seperate channel for developers to communicate.
 
-2. [explain where the info is kept (wallets, etc)]
+2. The wallet data is currently stored in `~/Library/Application\ Support/neuron-wallet` for mac OS.
 
 3. Pre-registration is required on the tokensale website (https://tokensale.synapse.ai). 
 

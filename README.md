@@ -9,7 +9,7 @@ Find the latest release here: https://github.com/SynapseOrg/neuron-releases/rele
 
 Welcome to the Synapse AI wallet app. 😊 This is how you'll register your wallet and application against the servers to participate on the Synapse network. 
 
-### A few things:
+### A few things
 
 1. We're still operating on the Ropsten testnet on the Ethereum network until this is out of Alpha. You can help us bring it out of beta by joining up here: https://synapse.ai/developers -- We're also kicking around the idea of opening a separate channel for developers to communicate. Submit issues on this repo or email support [at] synapse [dot] ai
 

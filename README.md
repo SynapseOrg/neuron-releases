@@ -11,7 +11,7 @@ Welcome to the Synapse AI wallet app. 😊 This is how you'll register your wall
 
 ### A few things:
 
-1. We're still operating on the Ropsten testnet on the Ethereum network until this is out of Alpha. You can help us bring it out of beta by joining up here: https://synapse.ai/developers -- We're also kicking around the idea of opening a separate channel for developers to communicate.
+1. We're still operating on the Ropsten testnet on the Ethereum network until this is out of Alpha. You can help us bring it out of beta by joining up here: https://synapse.ai/developers -- We're also kicking around the idea of opening a separate channel for developers to communicate. Submit issues on this repo or email support [at] synapse [dot] ai
 
 2. The wallet data is currently stored in `~/Library/Application\ Support/neuron-wallet` for mac OS.
 
